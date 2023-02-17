@@ -27,7 +27,6 @@ pipeline {
 	                echo "GitHub BranhName ${env.BRANCH_NAME}"
 	                checkout scm
 	
-
 	            }
 	        }
 	
