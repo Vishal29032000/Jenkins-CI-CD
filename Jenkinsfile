@@ -7,9 +7,9 @@ pipeline {
             MINOR = '0'
             //Orchestrator Services
             UIPATH_ORCH_URL = "https://cloud.uipath.com"
-            UIPATH_ORCH_LOGICAL_NAME = "aitraining"
-            UIPATH_ORCH_TENANT_NAME = "UiPathDefault"
-            UIPATH_ORCH_FOLDER_NAME = "Souravtest"
+            UIPATH_ORCH_LOGICAL_NAME = "persoftlktbj"
+            UIPATH_ORCH_TENANT_NAME = "DefaultTenant"
+            UIPATH_ORCH_FOLDER_NAME = "Shared"
         }
     
         stages {
